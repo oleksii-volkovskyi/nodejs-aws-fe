@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Links
+
+S3-website: [http://s3-store-node.s3-website-eu-west-1.amazonaws.com](http://s3-store-node.s3-website-eu-west-1.amazonaws.com)
+
+CloudFront URL: [https://d1fzcfgbkn1z7s.cloudfront.net](https://d1fzcfgbkn1z7s.cloudfront.net)
+
 ## Available Scripts
 
 In the project directory, you can run:  
